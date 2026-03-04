@@ -37,16 +37,16 @@
     <h1 class="text-green-400 text-xl font-bold glow">
       <a href="{{ '/' | relative_url }}">Voidstack</a>
     </h1>
-    <ul class="flex flex-wrap gap-2 text-sm mt-2 md:mt-0">
+    <ul class="flex gap-4 text-sm">
       <li><a href="{{ '/about/' | relative_url }}" class="hover-glow">About</a></li>
-      <li><a href="{{ '/#blogs' | relative_url }}" class="hover-glow">Blogs</a></li>
+      <li><a href="{{ '/#blogs' | relative_url }}" class="hover-glow">Logs</a></li>
       <li><a href="{{ '/#contact' | relative_url }}" class="hover-glow">Contact</a></li>
     </ul>
   </nav>
 
-  <main>
-    {{ content }}
-  </main>
+  <main class="pt-24 min-h-screen">
+  {{ content }}
+</main>
 
   <footer class="text-center py-6 border-t border-gray-700 text-gray-500 text-sm">
     <p>Made with ❤️ by <a href="https://github.com/v0idstack" class="hover-glow">v0idstack-dev</a></p>
