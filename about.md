@@ -15,9 +15,9 @@ permalink: /about/
 
 Hey, I’m **0ctane** — a final-year school student trying to learn ethical hacking and pentesting.
 
-**Voidstack** is my first proper web project — a simple, free platform to help others get started without the chaos I went through.
+**voidsec** is my first proper web project — a simple, free platform to help others get started without the chaos I went through.
 
-When I first got into this space, I spent more time finding good resources than actually learning. It felt like every path was either paywalled, too surface-level, or just clickbait. I built Voidstack so no one else has to waste that time. It’s not perfect — and I’m still learning — but it’s real.
+When I first started to try to learn, I spent more time finding good resources than actually learning. It felt like every path was either paywalled, too surface-level, or just clickbait. I built voidsec so no one else has to waste that time. It’s not perfect — and I’m still learning — but it’s real.
 
 ---
 <!--
@@ -52,6 +52,6 @@ When I first got into this space, I spent more time finding good resources than 
 ---
 ## Why this exists
 
-I’m not here to sell anything or pretend I know everything — because I don’t. I’m still learning every day. This site is part of that process.
+I’m not here to sell anything or pretend I know everything — because I don’t. I’m still learning every day. This site is part of that process. The end goal is so that people can find gems like [Opensecurity](https://opensecuritytraining.info/) ,[Pwncollege]()
 
 If it helps even one beginner avoid the confusion I faced — **mission complete.**
